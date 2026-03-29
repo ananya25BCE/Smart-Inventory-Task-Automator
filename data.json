@@ -1,0 +1,10 @@
+{
+    "Batteries": {
+        "quantity": 2,
+        "threshold": 5
+    },
+    "Paper Reams": {
+        "quantity": 10,
+        "threshold": 3
+    }
+}
