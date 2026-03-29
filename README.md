@@ -5,7 +5,6 @@ This project solves the "out-of-stock" problem in small-scale environments (like
 
 ## Setup
 1. Ensure you have **Python 3.x** installed.
-2. Clone this repo: `git clone [YOUR_URL]`.
 3. Run the script: `python inventory_manager.py`.
 
 ## Features
